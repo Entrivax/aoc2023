@@ -1,6 +1,6 @@
-# AOC 2021
+# AOC 2023
 
-My results for the Advent of Code 2021.
+My results for the Advent of Code 2023.
 
 ## Run specific day
 
